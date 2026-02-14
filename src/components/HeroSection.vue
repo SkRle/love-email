@@ -17,12 +17,9 @@
       <div v-show="showContent" class="hero-container z-index-1 mx-4">
         <v-card class="glass-card pa-8 pa-md-16 rounded-xl" elevation="0">
           <div class="elegant-sub mb-2" style="font-family: 'Dancing Script', cursive;">
-            Our Beautiful Journey
+            สวัสดีคุณ สิริกุล ศรีชมภู
           </div>
-          
-          <h1 class="hero-title text-primary mb-6" style="font-family: 'Cormorant Garamond', serif;">
-            สุขสันต์วันวาเลนไทน์
-          </h1>
+        
           
           <div class="heart-container my-10">
             <div class="main-heart-wrapper">
@@ -114,7 +111,7 @@ const generateHeartStyle = () => {
   height: 100vh;
   width: 100%;
   position: relative;
-  background: radial-gradient(circle at center, #fae6e6 0%, #f7d7d7 100%);
+  /* background: radial-gradient(circle at center, #fae6e6 0%, #f7d7d7 100%); */
   overflow: hidden;
 }
 
