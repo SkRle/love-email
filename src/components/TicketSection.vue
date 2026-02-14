@@ -63,16 +63,9 @@
 <script setup lang="ts">
 import { ref } from 'vue'
 
-const loading = ref(false)
+// const loading = ref(false)
 const snackbar = ref(false)
 
-const saveToWallet = () => {
-  loading.value = true
-  setTimeout(() => {
-    loading.value = false
-    snackbar.value = true
-  }, 1500)
-}
 </script>
 
 <style scoped>
