@@ -17,7 +17,7 @@
       <div v-show="showContent" class="hero-container z-index-1 mx-4">
         <v-card class="glass-card pa-8 pa-md-16 rounded-xl" elevation="0">
           <div class="elegant-sub mb-2" style="font-family: 'Dancing Script', cursive;">
-            สวัสดีคุณ สิริกุล ศรีชมภู
+            สวัสดีคุณ ศิริกุล ศรีชมภู
           </div>
         
           
