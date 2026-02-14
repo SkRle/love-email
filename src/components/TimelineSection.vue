@@ -2,7 +2,7 @@
   <v-container class="py-16 timeline-section d-flex flex-column justify-center" fluid>
     <v-fade-transition appear>
       <h2 class="text-h4 text-md-h3 text-center mb-12 text-primary font-weight-regular" style="font-family: 'Cormorant Garamond', serif;">
-        การเดินทางของเรา
+        เราผ่านอะไรมาเยอะมากเลย
       </h2>
     </v-fade-transition>
 
